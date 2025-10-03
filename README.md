@@ -31,7 +31,7 @@ Sóc un **estudiant de Sistemes Microinformàtics i Xarxes** apassionat per la t
 
 ## 🌟 Projecte actual
 
-### 📌 **Nom del projecte:** *[Afegeix aquí el nom del teu projecte]*
+### 📌 **Nom del projecte:** *EverPia*
 
 Aquest repositori forma part d’un projecte en el qual estic treballant per **aplicar els coneixements apresos en el cicle formatiu**.  
 L’objectiu és desenvolupar una **solució tècnica funcional i ben documentada**, utilitzant bones pràctiques i eines modernes.
